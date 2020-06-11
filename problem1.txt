@@ -1,0 +1,16 @@
+Step 1: Start
+Step 2: Initialize a number with value 0 (num = 0)
+Step 3: Start the loop:
+		for i=9999 to 100 step -1
+Step 3: Start another loop:
+		for j= i to 100 step -1
+Step 4: Multiply i*j and store in a variable prod
+Step 5: If prod > num: Go to step 6.
+Step 6: z= str(i*j)
+Step 7: check if the number is palindrome or not:
+		if(z== z[::-1]:
+		num=i*j
+Step 8: Print num
+Step 10: Stop
+	
+			
